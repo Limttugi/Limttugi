@@ -35,10 +35,6 @@
   <h1>Projects</h1>
 </div>
 <br>
-<div align=center>
-  <h1>Projects</h1>
-</div>
-<br>
 <div>
 	<h3>TapPlace - View Easy Payment Merchants</h3>
 	<p>Link : [https://www.tapplace.co.kr](https://www.tapplace.co.kr)</p>
