@@ -1,3 +1,4 @@
+
 ### <div align=center>👋 Welcome to LimJunHuk GitHub 👋</div>
 <br>
 <div align=center>
@@ -36,7 +37,6 @@
 </div>
 <br>
 <div>
-	<h3>TapPlace - View Easy Payment Merchants</h3>
+	<h3>TapPlace - View Easy Payment Merchants&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
 	<p>Link : https://www.tapplace.co.kr</p>
 </div>
-
