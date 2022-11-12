@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
 <br><br>
-<div align=center>
   <h1>Studying...</h1>
 </div>
 <br>
@@ -39,6 +38,9 @@
 <div>
 	<h3>TapPlace - View Easy Payment Merchants&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
 	<p>Link : https://www.tapplace.co.kr</p>
+	<a href="https://github.com/Limttugi/TapPlace-FE" target="_blank">
+    	  <img src="https://user-images.githubusercontent.com/67939901/201476097-bdca65ae-d8aa-4d33-b5a4-3310e81b0487.PNG" />
+   	</a>
 </div>
 <div>
 	<h3>AroundStudy - Find Study Around Me&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
