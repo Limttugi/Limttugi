@@ -44,4 +44,5 @@
 </div>
 <div>
 	<h3>AroundStudy - Find Study Around Me&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
+	개발중...
 </div>
