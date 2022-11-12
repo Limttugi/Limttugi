@@ -40,3 +40,6 @@
 	<h3>TapPlace - View Easy Payment Merchants&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
 	<p>Link : https://www.tapplace.co.kr</p>
 </div>
+<div>
+	<h3>AroundStudy - Find Study Around Me&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
+</div>
