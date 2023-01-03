@@ -3,6 +3,7 @@
 <br>
 <div align=center>
   <h1>My Tech STACKS</h1>
+  <hr />
 </div>
 <br>
 <div align=center> 
@@ -22,28 +23,26 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
-<br><br>
-<div align=center>
-  <h1>Studying...</h1>
-</div>
 <br>
 <div align=center>
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-</div>
-<br><br>
-<div align=center>
   <h1>Projects</h1>
+  <hr />
 </div>
 <br>
 <div>
-	<h3>TapPlace - View Easy Payment Merchants&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
+	<h3>탭플레이스 - 간편결제 가맹점 지도 서비스&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;웹 프론트엔드</h3>
 	<p>Link : https://www.tapplace.co.kr</p>
 	<a href="https://github.com/Limttugi/TapPlace-FE" target="_blank">
     	  <img src="https://user-images.githubusercontent.com/67939901/201476097-bdca65ae-d8aa-4d33-b5a4-3310e81b0487.PNG" />
    	</a>
+	<div>팀원 - [ 웹 프론트엔드 1 / 웹 백엔드 1 / UIUX 1 / IOS 2 / Android 2 ]</div>
 </div>
+<div align=center>
+  <h1>Activity</h1>
+  <hr />
+</div>
+<br>
 <div>
-	<h3>AroundStudy - Find Study Around Me&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Front-End Developer</h3>
-	개발중...
+	<h3>원티드 프리온보딩 인턴십 - 프론트엔드</h3>
+	<div>2022.12 ~ 진행중...</div>
 </div>
