@@ -1,9 +1,10 @@
 
-### <div align=center>👋 Welcome to LimJunHuk GitHub 👋</div>
+# <div align=center>👋 임준혁의 깃허브에 오신걸 환영합니다 👋</div>
+<br />
 <div align=center>
-  <h1>My Tech STACKS</h1>
+  <h1>사용 스택</h1>
   <hr />
-</div>
+</div>  
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -23,7 +24,7 @@
 </div>
 <br>
 <div align=center>
-  <h1>Projects</h1>
+  <h1>프로젝트</h1>
   <hr />
 </div>
 <div>
@@ -35,7 +36,7 @@
 	<div>팀원 - [ 웹 프론트엔드 1 / 웹 백엔드 1 / UIUX 1 / IOS 2 / Android 2 ]</div>
 </div>
 <div align=center>
-  <h1>Activity</h1>
+  <h1>활동</h1>
   <hr />
 </div>
 <div>
