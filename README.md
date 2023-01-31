@@ -42,5 +42,5 @@
 <div>
 	<h3>원티드 프리온보딩 인턴십 - 프론트엔드</h3>
 	<div>Organization - https://github.com/orgs/wanted-pre-onboarding-8team/repositories</div>
-	<div>2022.12 ~ 진행중...</div>
+	<div>2022.12. ~ 2023.01.</div>
 </div>
