@@ -34,6 +34,7 @@
 	   <img src="https://user-images.githubusercontent.com/67939901/220843008-6a1aefae-da90-4819-9439-5531eba54a91.PNG" />
 	</a>
 	<div>팀원 - [ 웹 프론트엔드 1 / 웹 백엔드 1 / UIUX 1 / IOS 2 / Android 2 ]</div>
+	<p>Link before refactoring : https://github.com/TapPlace/TapPlace-FE</p>
 </div>
 <div align=center>
   <h1>활동</h1>
