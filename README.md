@@ -30,9 +30,9 @@
 <div>
 	<h3>탭플레이스 - 간편결제 가맹점 지도 서비스&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;웹 프론트엔드</h3>
 	<p>Link : https://www.tapplace.co.kr</p>
-	<a href="https://github.com/Limttugi/TapPlace-FE" target="_blank">
-    	  <img src="https://user-images.githubusercontent.com/67939901/201476097-bdca65ae-d8aa-4d33-b5a4-3310e81b0487.PNG" />
-   	</a>
+	<a href="https://github.com/TapPlace/TapPlace-FE-Nextjs" target="_blank">
+	   <img src="https://user-images.githubusercontent.com/67939901/220843008-6a1aefae-da90-4819-9439-5531eba54a91.PNG" />
+	</a>
 	<div>팀원 - [ 웹 프론트엔드 1 / 웹 백엔드 1 / UIUX 1 / IOS 2 / Android 2 ]</div>
 </div>
 <div align=center>
