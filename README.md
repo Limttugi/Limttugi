@@ -35,6 +35,7 @@
 	</a>
 	<div>팀원 - [ 웹 프론트엔드 1 / 웹 백엔드 1 / UIUX 1 / IOS 2 / Android 2 ]</div>
 	<p>Link before refactoring : https://github.com/TapPlace/TapPlace-FE</p>
+	<p>리팩토링중..</p>
 </div>
 <div align=center>
   <h1>활동</h1>
