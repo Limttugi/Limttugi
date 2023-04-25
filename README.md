@@ -29,6 +29,7 @@
 </div>
 <div>
 	<h3>탭플레이스 - 간편결제 가맹점 지도 서비스&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;웹 프론트엔드</h3>
+	<blockquote>간편결제 사용자를 위한 간편결제 가맹점 지도 서비스</blockquote>
 	<p>Link : https://www.tapplace.co.kr</p>
 	<a href="https://github.com/TapPlace/TapPlace-FE-Nextjs" target="_blank">
 	   <img src="https://user-images.githubusercontent.com/67939901/220843008-6a1aefae-da90-4819-9439-5531eba54a91.PNG" />
@@ -44,5 +45,6 @@
 <div>
 	<h3>원티드 프리온보딩 인턴십 - 프론트엔드</h3>
 	<div>Organization - https://github.com/orgs/wanted-pre-onboarding-8team/repositories</div>
-	<div>2022.12. ~ 2023.01.</div>
+	<blockquote>2022.12. ~ 2023.01. - 팀장</blockquote>
+	<code>원티드 주관 강의를 들으며 프론트엔드 관련 지식을 습득하고<br/>동료 학습을 통하여 기업에서 내주는 기업 과제 또는 팀 과제를 해결합니다.</code>
 </div>
