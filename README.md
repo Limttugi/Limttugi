@@ -48,6 +48,13 @@
   <hr />
 </div>
 <div>
+	<h3>AlgoView - 프론트엔드</h3>
+	<blockquote>2023.06 - 기여자</blockquote>
+	<code>알고리즘 테스트 데이터 분석 서비스</code>
+	<div>Organization - https://github.com/Algorithm-Coding-Test-Data-Analysis/algoview</div>
+	<div>JS 알고리즘 데이터 추가, reference 페이지 구현</div>
+</div>
+<div>
 	<h3>원티드 프리온보딩 인턴십 - 프론트엔드</h3>
 	<blockquote>2022.12. ~ 2023.01. - 팀장</blockquote>
 	<code>원티드 주관 강의를 들으며 프론트엔드 관련 지식을 습득하고<br/>동료 학습을 통하여 기업에서 내주는 기업 과제 또는 팀 과제를 해결합니다.</code>
