@@ -40,8 +40,8 @@
 	   		<img src="https://user-images.githubusercontent.com/67939901/220843008-6a1aefae-da90-4819-9439-5531eba54a91.PNG" />
 		</a>
 	</div>
-	<div>Link : https://www.tapplace.co.kr</div>
-	<div>Link before refactoring : <del>https://github.com/TapPlace/TapPlace-FE</del></div>
+	<div>Link : https://www.tapplace.co.kr | refactoring branch</div>
+	<div>Refo before refactoring : <del>https://github.com/TapPlace/TapPlace-FE</del></div>
 </div>
 <div align=center>
   <h1>활동</h1>
